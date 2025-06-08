@@ -33,7 +33,7 @@ AstroPrevisoes/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/astroprevisoes.git
+   git clone https://github.com/Juliana162702/AstroPrevisoes.git
    cd astroprevisoes
    ```
 
